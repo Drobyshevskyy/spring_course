@@ -75,6 +75,15 @@ Java class Employee.java (/entity/Employee.java) is connected to mySQL table "em
 The class has getters, setters, constuctor, fields that are equal to "employee" table columns and toString() method
 <br>
 <br>
-Test1.java, Test2.java, Test3.java, Test4.java, Test5.java are examples of performing all the CRUD operations using SessionFactory
+Test1.java, Test2.java, Test3.java, Test4.java, Test5.java are examples of performing all the CRUD operations using SessionFactory:
+<br>
+<ul>
+  <li>add employee to database</li>
+  <li>select employee by ID</li>
+  <li>select an employee based on a certain condition</li>
+  <li>update employee based on a certain condition</li>
+  <li>delete employee based on a certain condition</li>
+</ul>
+/src/hibernate_one_to_one
 <br>
 <br>
