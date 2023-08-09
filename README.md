@@ -5,12 +5,12 @@ This repository contains examples from the Spring Framework and Hibernate course
 It consists of three parts:
 <br> 
 <ul>
-  <li>Spring introduction</li>
+  <li>Spring Introduction</li>
   <li>AOP (aspect-oriented programming)</li>
   <li>Hibernate</li>
 </ul>
 All the projects are created with Maven
-<h3>Spring introduction</h3>
+<h3>Spring Introduction</h3>
 /src/spring_introduction
 <br>
 <br>
