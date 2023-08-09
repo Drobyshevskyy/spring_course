@@ -47,3 +47,20 @@ Test6.java is an example of working with Spring Container configured with Java c
 <br>
 <br>
 <h3>AOP (aspect-oriented programming)</h3>
+/src/aop
+<br>
+<br>
+We implement examples of aspect-oriented programming. In addition to the business logic itself, there is also the cross-cutting functionality that aspects implement
+<br>
+<br>
+The aspects directory contains aspect-classes, differentiated by the cross-cutting logic they implement; it also contains the myPointcuts.java class (poincuts are expressions that define to which methods the logic described in "advice" will be applied)
+<br>
+<br>
+Aspects in our aspect-classes implement end-to-end logic at various points in the execution of methods, using annotations that define this (@Before, @After, @AfterThrowing, @AfterReturning, @Around)
+<br>
+<br>
+The test applications are developed for a school or university library, describing the process of borrowing and returning books by applying the cross-cutting functionality implemented in aspects to the main business logic
+Иusiness logic is implemented only in test form in order not to be distracted by its implementation, paying more attention to the implementation of cross-cutting functionality in the examples
+<br>
+<br>
+<h3>Hibernate</h3>
