@@ -27,7 +27,7 @@ The examples show Dependency Injection with setters and injection of strings and
 Located at /resources/myApp.properties
 <br>
 <br>
-Test4.java Test5.java represent scope management and working with the life cycle of a bean
+Test4.java and Test5.java represent scope management and working with the life cycle of a bean
 <br>
 We use init and destroy methods of the class "Dog"
 <br>
