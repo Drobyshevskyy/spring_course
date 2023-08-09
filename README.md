@@ -113,10 +113,12 @@ Tables "employee" and "department" are linked one-to-many bidirectional
 <br>
 Classes Employee.java (/entity/Employee.java) and Department.java (/entity/Department.java) are connected to these tables
 <br>
+We use LAZY loading type
+<br>
 <br>
 Test1.java perfroms all the CRUD operations using SessionFactory
 <br>
 <br>
-/src/hibernate_one_to_many
+/src/hibernate_many_to_many
 <br>
 <br>
