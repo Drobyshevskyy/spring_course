@@ -122,3 +122,11 @@ Test1.java perfroms all the CRUD operations using SessionFactory
 /src/hibernate_many_to_many
 <br>
 <br>
+Tables "child" and "section" are linked many-to-many 
+<br>
+Classes Child.java (/entity/Child.java) and Section.java (/entity/Section.java) are connected to these tables
+<br>
+<br>
+Test.java perfroms all the CRUD operations using SessionFactory
+<br>
+<br>
