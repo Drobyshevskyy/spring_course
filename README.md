@@ -1,6 +1,7 @@
 <h2>Overview</h2>
 This repository contains examples from the Spring Framework and Hibernate course
 <br>
+<br>
 It consists of three parts:
 <br> 
 <ul>
@@ -11,6 +12,7 @@ It consists of three parts:
 All the projects are created with Maven
 <h3>Spring introduction</h3>
 /src/spring_introduction
+<br>
 <br>
 File Test2.java is an example of use Inversion of Controle
 <br>
@@ -24,4 +26,6 @@ The examples show Dependency Injection with setters and injection of strings and
 <br>
 Located at /resources/myApp.properties
 <br>
+<br>
+
 
