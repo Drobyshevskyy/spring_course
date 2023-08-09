@@ -70,6 +70,11 @@ Config file (/src/hibernate.cfg.xml) connects our project to mySQL
 /src/hibernate_test
 <br>
 <br>
-Java class Employee.java (/entity/Employee.java) is connected to mySQL table "employee" using Hibernate annotations
+Java class Employee.java (/entity/Employee.java) is connected to mySQL table "employee" using Hibernate annotations 
+<br>
+The class has getters, setters, constuctor, fields that are equal to "employee" table columns and toString() method
+<br>
+<br>
+Test1.java, Test2.java, Test3.java, Test4.java, Test5.java are examples of performing all the CRUD operations using SessionFactory
 <br>
 <br>
