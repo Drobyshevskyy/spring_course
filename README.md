@@ -95,6 +95,28 @@ Classes Employee.java (/entity/Employee.java) and Detail.java (/entity/Detail.ja
 Test1.java and Test2.java perform all the CRUD operations using SessionFactory
 <br>
 <br>
-/src/hibernate/one_to_many_uni
+/src/hibernate_one_to_many_uni
+<br>
+<br>
+Tables "employee" and "department" are linked one-to-many unidirectional 
+<br>
+Classes Employee.java (/entity/Employee.java) and Department.java (/entity/Department.java) are connected to these tables
+<br>
+<br>
+Test1.java perfroms all the CRUD operations using SessionFactory
+<br>
+<br>
+/src/hibernate_one_to_many_bi
+<br>
+<br>
+Tables "employee" and "department" are linked one-to-many bidirectional 
+<br>
+Classes Employee.java (/entity/Employee.java) and Department.java (/entity/Department.java) are connected to these tables
+<br>
+<br>
+Test1.java perfroms all the CRUD operations using SessionFactory
+<br>
+<br>
+/src/hibernate_one_to_many
 <br>
 <br>
