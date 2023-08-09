@@ -64,3 +64,12 @@ The test applications are developed for a school or university library, describi
 <br>
 <br>
 <h3>Hibernate</h3>
+Config file (/src/hibernate.cfg.xml) connects our project to mySQL
+<br>
+<br>
+/src/hibernate_test
+<br>
+<br>
+Java class Employee.java (/entity/Employee.java) is connected to mySQL table "employee" using Hibernate annotations
+<br>
+<br>
