@@ -87,3 +87,14 @@ Test1.java, Test2.java, Test3.java, Test4.java, Test5.java are examples of perfo
 /src/hibernate_one_to_one
 <br>
 <br>
+Tables "employee" and "detail" are linked one-to-one 
+<br>
+Classes Employee.java (/entity/Employee.java) and Detail.java (/entity/Detail.java) are connected to these tables
+<br>
+<br>
+Test1.java and Test2.java perform all the CRUD operations using SessionFactory
+<br>
+<br>
+/src/hibernate/one_to_many_uni
+<br>
+<br>
